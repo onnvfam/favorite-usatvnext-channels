@@ -1,17 +1,15 @@
 # One channel name per line, exactly as it appears in USA TV Next.
 # The order here is the order Stremio shows. Run `python3 build.py` after editing.
 
-Nickelodeon
 TBS
+Nickelodeon
 MTV
 CMT
 Comedy TV
-E! Entertainment Television
 AMC
 BBC America 
 BET
 Cinemax
-FX Movie Channel
 MTV2
 MeTV
 Paramount Network
