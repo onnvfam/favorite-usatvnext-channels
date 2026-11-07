@@ -34,7 +34,7 @@ http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1,FX
 http://tvsen7.aynascope.net/fx/index.m3u8
 
-#EXTINF:-1,E! Entertainment
+#EXTINF:-1,E! Entertainment Television
 http://23.237.104.106:8080/USA_E/index.m3u8
 
 #EXTINF:-1,Paramount Network
