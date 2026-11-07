@@ -6,6 +6,7 @@ Nickelodeon
 MTV
 MTV2
 MeTV Toons
+FX
 CMT
 Comedy TV
 AMC
