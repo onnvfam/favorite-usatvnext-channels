@@ -1,42 +1,35 @@
 # One channel name per line, exactly as it appears in USA TV Next.
 # The order here is the order Stremio shows. Run `python3 build.py` after editing.
 
+# My Sources
 TBS
-Nickelodeon
-MTV
-MTV2
-MeTV Toons
-E! Entertainment Television
-FX
-CMT
-Comedy TV
-AMC
-BBC America 
-BET
-Cinemax
-Paramount Network
-SYFY
 TNT
-TruTV
-5StarMax 
+MeTV Toons
+
+# Working
+AMC
+Comedy TV
+BET
+Cinemax 
 HBO
+HBO Family
+
+# Not loading
 HBO 2
 HBO Comedy
-HBO Family
 HBO Signature
 HBO Zone
 MoreMax
 Showtime
-Starz
-Starz Comedy
+
+# Kids
 Boomerang
 Cartoon Network
+Toonami Aftermath (East)
 Disney Channel
 Disney Jr
 Disney XD
-MeTV Toons
 Nick Jr
 Nicktoons
-PBS Kids
 TeenNick
-Toonami Aftermath (East)
+PBS Kids
